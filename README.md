@@ -1,17 +1,17 @@
-# `@jlambe/streak-counter` - a basic streak counter
+# `@orlenka/streak-counter` - a basic streak counter
 
 This is a basic streak counter - inspired by Duolingo - written in TypeScript and meant for the browser (uses `localStorage`).
 
 ## Install
 
 ```shell
-yarn add @jlambe/streak-counter
+yarn add @orlenka/streak-counter
 ```
 
 ## Usage
 
 ```javascript
-import {streakCounter} from '@jlambe/streak-counter'
+import {streakCounter} from '@orlenka/streak-counter'
 
 const today = new Date();
 const streak = streakCounter(localStorage, today);
