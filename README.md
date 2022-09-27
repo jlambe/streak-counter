@@ -10,6 +10,8 @@ yarn add @orlenka/streak-counter
 
 ## Usage
 
+[![Edit streak-counter (ts-course) (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/streak-counter-ts-course-forked-70jrg4?fontsize=14&hidenavigation=1&theme=dark)
+
 ```javascript
 import {streakCounter} from '@orlenka/streak-counter'
 
